@@ -1,0 +1,21 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BitMask                 3036
+//	CounterLength           3035
+//	Done                    3013
+//	MULTIPLY                302B
+//	MskLoop                 300C
+//	NxtLoop                 300F
+//	asciiHex                306B
+//	getInput                3014
+//	inputEnd                306A
+//	inputValue1             3068
+//	inputValue2             3069
+//	newLine                 3067
+//	tempR0                  306C
+//	tempR1                  306D
+//	tempR2                  306E
+//	tempR3                  306F
+//	tempR4                  3070
+//	tempR7                  3071
+//	userPrompt              3046
